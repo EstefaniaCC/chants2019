@@ -4,7 +4,7 @@ title: Topics of Interest
 permalink: /topics/
 ---
 
-<b>Topics of interest include, but are not limited to:</b>
+<strong>Topics of interest include, but are not limited to:</strong>
 
 <ul>
   <li>Delay/disruption-tolerant networks (DTNs), opportunistic communication and computing</li>
