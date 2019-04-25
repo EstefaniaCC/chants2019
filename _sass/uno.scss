@@ -46,6 +46,27 @@ body {
 	body:after {
 		clear: both; }
 
+.twitter-timeline {
+  max-width: 100%;
+  max-height: 240px;
+}
+.fa {
+  font-size: 25px;
+  color: #FFFFFF;
+}
+.panel-title {
+ font-size: 25px;
+ color: #FFFFFF;
+ font-family: 'Open Sans', sans-serif;
+}
+.panel-heading {
+ background-color: #1da1f2 !important;
+ color: #1da1f2 !important;
+}
+.panel {
+ margin-top: 25px;
+}
+
 /*
  * Foundation Icons v 3.0
  * Made by ZURB 2013 http://zurb.com/playground/foundation-icon-fonts-3
@@ -67,6 +88,9 @@ body {
 	-webkit-font-smoothing: antialiased;
 	display: inline-block;
 	text-decoration: inherit; }
+
+.icon-image {
+	margin-top: 1.2em; }
 
 .icon-address-book:before {
 	content: "\f100"; }
@@ -1248,6 +1272,12 @@ panel-cover__date {
 
 .panel-cover__divider--secondary {
 	width: 15%; }
+
+.panel-cover__twitter-timeline {
+	margin-bottom: 1.2em; }
+
+.panel-cover.panel-cover--collapsed .panel-cover__twitter-timeline {
+	display: none; }
 
 .panel-main {
 	display: table;
