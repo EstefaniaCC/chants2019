@@ -11,4 +11,4 @@ This workshop builds on the success of the twelve previous CHANTS workshops, and
 
 <strong><font size="5">Previous Editions</font></strong>
 
-All the previous editions from ACM CHANTS can be found at: <a href="http://chants.cs.ucsb.edu/" title="CHANTS"></a>
+All the previous editions from ACM CHANTS can be found at: <a href="http://chants.cs.ucsb.edu/"> http://chants.cs.ucsb.edu/ </a>

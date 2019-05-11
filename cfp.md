@@ -38,7 +38,7 @@ CHANTS builds on the success of the thirteen previous CHANTS workshops and WDTN 
   <li>Test and simulation tools for evaluating challenged network systems</li>
 </ul>
 
-<strong><font size="5">Important Dates (exact dates to be announced soon)</font></strong>
+<strong><font size="5">Important Dates</font></strong>
 
 <ul>
   <li>Abstract Registration: ​<strong>June 14, 2019</strong></li>
