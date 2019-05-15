@@ -23,4 +23,26 @@ permalink: /pcom/
 <br>Andrea Passarella <em>(IIT-CNR, Italy)</em><br>
 
 <strong><font size="4">Technical Program Committee</font></strong>
-<br>- To be updated soon.
+<br>Anatolij Zubow <em>(TU Berlin, Germany)</em>
+<br>Andrea Hess-Wijaya <em>(Trinity College Dublin, Ireland)</em>
+<br>Andrea Passarella <em>(IIT-CNR, Italy)</em>
+<br>Chiara Boldrini <em>(IIT-CNR, Italy)</em>
+<br>Daniel Lucani <em>(Aarhus University, Denmark)</em>
+<br>Eiko Yoneki <em>(University of Cambridge, UK)</em>
+<br>Elena Pagani <em>(Universita degli Studi di Milano, Italy)</em>
+<br>Fehmi Ben Abdesslem <em>(SICS Swedish ICT, Sweden)</em>
+<br>Geert Heijenk <em>(University of Twente, The Netherlands)</em>
+<br>H. Birkan Yilmaz <em>(Polytechnic Univ. of Catalonia, Spain)</em>
+<br>Joerg Ott <em>(Technische Universität München, Germany)</em>
+<br>Karin Anna Hummel <em>(JKU Linz, Austria)</em>
+<br>Kevin Almeroth <em>(UC-Santa Barbara, USA)</em>
+<br>Klaus Wehrle <em>(RWTH Aachen, Germany)</em>      
+Marcelo Dias de Amorim <em>(UPMC/LIP6, France)</em>
+<br>Mirco Musolesi <em>(University College London, UK)</em>
+<br>R.K. Ghosh <em>(IIT, Kanpur)</em>
+<br>Stephen Farrell <em>(Trinity College Dublin, Ireland)</em>
+<br>Symeon Papavassiliou <em>(National Tech. Univ. of Athens, Greece)</em>
+<br>Thierry Turletti <em>(INRIA, France)</em>
+<br>Thrasyvoulos Spyropoulos <em>(Institut Eurecom, France)</em>
+<br>Xiaolan Zhang  <em>(Fordham University, USA)</em>
+<br>Yu Wang <em>(University of North Carolina at Charlotte, USA)</em>
