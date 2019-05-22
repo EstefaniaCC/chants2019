@@ -46,3 +46,5 @@ Marcelo Dias de Amorim <em>(UPMC/LIP6, France)</em>
 <br>Thrasyvoulos Spyropoulos <em>(Institut Eurecom, France)</em>
 <br>Xiaolan Zhang  <em>(Fordham University, USA)</em>
 <br>Yu Wang <em>(University of North Carolina at Charlotte, USA)</em>
+<br>Jelena Misic <em>(Ryerson University, Canada)</em>
+<br>Mohan Kumar <em>(Rochester Institute of Technology, USA)</em>
