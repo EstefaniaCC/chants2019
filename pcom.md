@@ -48,4 +48,4 @@ Marcelo Dias de Amorim <em>(UPMC/LIP6, France)</em>
 <br>Yu Wang <em>(University of North Carolina at Charlotte, USA)</em>
 <br>Jelena Misic <em>(Ryerson University, Canada)</em>
 <br>Mohan Kumar <em>(Rochester Institute of Technology, USA)</em>
-<br>Kyunghan Lee <em>(School of Electrical and Computer Engineering UNIST, Korea)</em>
+<br>Kyunghan Lee <em>(UNIST, Korea)</em>
