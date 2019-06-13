@@ -21,7 +21,7 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +36,7 @@
     <url>
       <loc>http://localhost:4000/cfp/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +51,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +66,7 @@
     <url>
       <loc>http://localhost:4000/guidelines/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,7 +81,7 @@
     <url>
       <loc>http://localhost:4000/humans.txt</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -100,7 +100,7 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -115,7 +115,7 @@
     <url>
       <loc>http://localhost:4000/news/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -130,7 +130,7 @@
     <url>
       <loc>http://localhost:4000/pcom/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -145,7 +145,7 @@
     <url>
       <loc>http://localhost:4000/program/</loc>
       
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
+        <lastmod>2019-06-13T18:19:16+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -158,21 +158,6 @@
   
     
   
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/topics/</loc>
-      
-        <lastmod>2019-04-10T09:50:23+02:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
 </urlset>
