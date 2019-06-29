@@ -37,8 +37,8 @@ CHANTS builds on the success of the thirteen previous CHANTS workshops and WDTN 
 
 <strong><font size="4">Important Dates</font></strong>
 <ul>
-  <li>Abstract Registration: ​<strong><strike>June 14, 2019</strike> Friday 28 Jun 2019 11:59:59pm EDT</strong></li> 
-  <li>Submission Deadline: <strong><strike>June 21, 2019</strike> Friday 28 Jun 2019 11:59:59pm EDT</strong></li>
+  <li>Abstract Registration: ​<strong><strike>June 14, 2019</strike> Friday 5 Jul 2019 11:59:59pm EDT</strong></li> 
+  <li>Submission Deadline: <strong><strike>June 21, 2019</strike> Friday 5 Jul 2019 11:59:59pm EDT</strong></li>
   <li>Acceptance Notification: ​<strong>July 31, 2019</strong></li>
   <li>Camera-ready: <strong>August 12, 2019</strong></li>
   <li>Workshop:​ <strong>October 25th, 2019</strong></li>
