@@ -17,3 +17,7 @@ The papers should adhere to the standard ACM conference proceedings format (<a h
 
 <strong><font size="4">Submission Site</font></strong>
 <br>Please submit your papers in PDF format using the following paper submission website: <a href="https://chants2019.hotcrp.com">https://chants2019.hotcrp.com</a> 
+
+<strong><font size="4">Camera Ready Guidelines</font></strong>
+<br>Camera Ready due date is <strong>August 18th</strong>.
+<br>Please check the camera ready submission guidelines <a href="http://www.scomminc.com/pp/acmsig/chants.htm">here</a>. 
